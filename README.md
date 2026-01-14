@@ -82,7 +82,7 @@ Sistema automatizado que monitora emails recebidos, analisa possíveis ameaças 
 
 **Natalia Kikuti**
 
-- LinkedIn:(https://www.linkedin.com/in/nataliakikuti/)
+- LinkedIn: https://www.linkedin.com/in/nataliakikuti/
 - Email: nataliakikuti@gmail.com
 
 ## 🙏 Agradecimentos
